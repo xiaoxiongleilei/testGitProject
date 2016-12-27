@@ -8,7 +8,7 @@ public class LogManagerBean {
 	private String 	userName;
 	private String 	userMobile;
 	private String 	userRole;
-	private Integer schoolId;//开发商
+	private Integer schoolId;//开发商testa
     private String  schoolName;//开发商
 	private Integer operateType;//
 	private String  operateModule;//
